@@ -1,0 +1,4 @@
+Streamline
+Pandos
+plotly
+Openpyxl
